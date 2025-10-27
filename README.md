@@ -84,15 +84,7 @@ Modify `src/data/projects.js` to add your projects or update the GitHub username
 ### Styling
 All styles are in `src/styles/index.css` with CSS custom properties for easy theming.
 
-## Deployment
 
-The project is ready for deployment to:
-- Netlify
-- Vercel
-- GitHub Pages
-- Any static hosting service
-
-Run `npm run build` to create the production build in the `dist` folder.
 
 ## License
 
