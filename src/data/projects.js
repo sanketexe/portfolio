@@ -24,11 +24,11 @@ export const projects = [
     githubUrl: "https://github.com/sanketexe/ai-cloud-scheduler"
   },
   {
-    id: "linkedin-powerbi",
-    title: "LinkedIn Profile Dashboard Power BI",
-    description: "Interactive Power BI dashboard analyzing LinkedIn profile data with insights and visualizations.",
-    technologies: ["Power BI", "Data Analysis", "DAX", "Data Visualization", "Business Intelligence"],
-    gradient: "linear-gradient(135deg, #dc2626 0%, #ef4444 50%, #dc2626 100%)",
-    githubUrl: "https://github.com/sanketexe/linkedin-powerbi-dashboard"
+    id: "sleep-health-dashboard",
+    title: "Sleep Health Analytics Dashboard",
+    description: "Professional BI dashboard analyzing sleep health patterns and medical interventions with interactive visualizations, cross-filtering, and 850+ data points across two datasets.",
+    technologies: ["React", "TypeScript", "Apache ECharts", "Data Analytics", "Tailwind CSS", "Vite"],
+    gradient: "linear-gradient(135deg, #667eea 0%, #764ba2 50%, #667eea 100%)",
+    githubUrl: "https://github.com/sanketexe/sleep-health-analytics-dashboard"
   }
 ];
