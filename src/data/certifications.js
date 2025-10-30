@@ -109,5 +109,19 @@ export const interests = [
       { name: "Prakhar Ke Pravachan", url: "https://www.youtube.com/@prakharkepravachan" }
     ],
     topics: ["Self-Improvement", "Entrepreneurship", "Health", "Mindset", "Podcasts"]
+  },
+  {
+    id: "recommended-books",
+    title: "RECOMMENDED BOOKS",
+    description: "Books that have shaped my thinking, expanded my perspective, and contributed to my personal and professional growth journey.",
+    image: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&h=400&fit=crop",
+    books: [
+      "The Secret",
+      "5 AM Club",
+      "48 Laws of Power",
+      "The Courage to Be Disliked",
+      "India's Most Fearless"
+    ],
+    topics: ["Self-Help", "Productivity", "Strategy", "Philosophy", "Military"]
   }
 ];

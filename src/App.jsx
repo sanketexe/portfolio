@@ -11,7 +11,6 @@ import AboutSection from './components/sections/AboutSection';
 import ProjectsSection from './components/sections/ProjectsSection';
 import SkillsSection from './components/sections/SkillsSection';
 import InterestsSection from './components/sections/InterestsSection';
-import BooksSection from './components/sections/BooksSection';
 import CertificationsSection from './components/sections/CertificationsSection';
 import ServiceRecordSection from './components/sections/ServiceRecordSection';
 import ContactSection from './components/sections/ContactSection';
@@ -54,7 +53,6 @@ function App() {
         <ProjectsSection />
         <SkillsSection />
         <InterestsSection />
-        <BooksSection />
         <CertificationsSection />
         <ServiceRecordSection />
         <ContactSection />
