@@ -56,3 +56,56 @@ export const educationTimeline = [
     ]
   }
 ];
+
+export const experienceTimeline = [
+  {
+    id: "acm-marketing",
+    role: "Marketing Member",
+    organization: "ACM Student Chapter - PCCOE",
+    location: "Pune, India",
+    duration: "2023 - 2024",
+    year: 2023,
+    description: "Contributed to marketing and promotional activities for ACM student chapter, helping increase visibility and engagement.",
+    icon: "📢",
+    type: "volunteer",
+    highlights: [
+      "Social Media Management",
+      "Event Promotion",
+      "Content Creation"
+    ]
+  },
+  {
+    id: "acm-membership-chair",
+    role: "Membership Chair",
+    organization: "ACM Student Chapter - PCCOE",
+    location: "Pune, India",
+    duration: "2024 - 2025",
+    year: 2024,
+    status: "Completed",
+    description: "Successfully recruited 150+ new members for ACM student chapter. Exceptional communication skills and strategic outreach resulted in 36.4% membership growth.",
+    icon: "🤝",
+    type: "leadership",
+    highlights: [
+      "Recruited 150+ new members",
+      "36.4% membership growth",
+      "Strategic outreach and engagement"
+    ]
+  },
+  {
+    id: "techsummit-president",
+    role: "President - TechSummit 2025",
+    organization: "PCCOE - Student Welfare",
+    location: "Pune, India",
+    duration: "January 2025 - March 2025",
+    year: 2025,
+    status: "Completed",
+    description: "Led strategic planning and execution of TechSummit 2025, a prestigious tech conference. Demonstrated exceptional leadership in coordinating teams and delivering successful academic events.",
+    icon: "⭐",
+    type: "leadership",
+    highlights: [
+      "Led tech conference organization",
+      "Strategic planning and execution",
+      "Team coordination and management"
+    ]
+  }
+];

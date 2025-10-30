@@ -7,12 +7,13 @@ const Navigation = () => {
   const navItems = [
     { id: 'hq', label: 'Home' },
     { id: 'campaign', label: 'About' },
-    { id: 'education', label: 'Education' },
+    { id: 'timeline', label: 'Timeline' },
+    { id: 'experience', label: 'Experience' },
     { id: 'operations', label: 'Projects' },
     { id: 'loadout', label: 'Skills' },
     { id: 'intel', label: 'Interests' },
     { id: 'certifications', label: 'Certifications' },
-    { id: 'service-record', label: 'Experience' },
+    { id: 'service-record', label: 'Service Record' },
     { id: 'comms', label: 'Contact' }
   ];
 

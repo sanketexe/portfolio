@@ -3,8 +3,8 @@ import { educationTimeline } from '../../data/education';
 
 const EducationTimeline = () => {
   return (
-    <section id="education">
-      <h2 className="section-title">Education Timeline</h2>
+    <section id="timeline">
+      <h2 className="section-title">Timeline</h2>
       <p className="section-subtitle" style={{ 
         textAlign: 'center', 
         maxWidth: '700px', 
