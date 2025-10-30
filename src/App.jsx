@@ -14,7 +14,6 @@ import ProjectsSection from './components/sections/ProjectsSection';
 import SkillsSection from './components/sections/SkillsSection';
 import InterestsSection from './components/sections/InterestsSection';
 import CertificationsSection from './components/sections/CertificationsSection';
-import ServiceRecordSection from './components/sections/ServiceRecordSection';
 import ContactSection from './components/sections/ContactSection';
 
 // Hooks and Utils
@@ -58,7 +57,6 @@ function App() {
         <SkillsSection />
         <InterestsSection />
         <CertificationsSection />
-        <ServiceRecordSection />
         <ContactSection />
       </main>
       
