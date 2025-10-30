@@ -108,13 +108,6 @@ export const interests = [
       { name: "Joe Rogan", url: "https://www.youtube.com/@joerogan" },
       { name: "Prakhar Ke Pravachan", url: "https://www.youtube.com/@prakharkepravachan" }
     ],
-    books: [
-      "The Secret",
-      "5 AM Club",
-      "48 Laws of Power",
-      "The Courage to Be Disliked",
-      "India's Most Fearless"
-    ],
     topics: ["Self-Improvement", "Entrepreneurship", "Health", "Mindset", "Podcasts"]
   }
 ];
