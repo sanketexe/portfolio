@@ -6,7 +6,7 @@ const ProjectCard = ({ project }) => {
     'legal-chatbot': 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=500&h=300&fit=crop',
     'civiceye': 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=500&h=300&fit=crop',
     'ai-cloud-scheduler': 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=300&fit=crop',
-    'linkedin-powerbi': 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop'
+    'sleep-health-dashboard': 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop'
   };
 
   return (
